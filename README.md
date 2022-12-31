@@ -1,6 +1,11 @@
 # TugasPMobile_2000018240
 Aplikasi ini dibuat oleh Habbatul Qolbi H (2000018240) dengan menerapkan Room Presistence dan Shared Preference.
 
+
+<img src="https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630" width="50%" height="50%">
+<img src="https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630" width="50%" height="50%">
+<img src="https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630" width="50%" height="50%">
+
 ## Feature aplikasi
 - Register, menambahkan data ke database
 - Login, melakukan login dengan mencari data dari database lalu menerapkan room preference untuk tetap login ketika berhasil login
