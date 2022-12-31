@@ -4,12 +4,12 @@ Aplikasi ini dibuat oleh Habbatul Qolbi H (2000018240) dengan menerapkan Room Pr
 
 ## Feature aplikasi
 - Register, menambahkan data ke database
-<img src="[https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630](https://user-images.githubusercontent.com/121380847/210130792-0b63011b-2629-4a86-8c73-68b870a3c6d7.png)" width="50%" height="50%">
+        <img src="[https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630](https://user-images.githubusercontent.com/121380847/210130792-0b63011b-2629-4a86-8c73-68b870a3c6d7.png)" width="50%" height="50%">
 - Login, melakukan login dengan mencari data dari database lalu menerapkan room preference untuk tetap login ketika berhasil login
-<img src="[https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630](https://user-images.githubusercontent.com/121380847/210130776-f4c089de-5972-494b-8e0c-cc5c74208101.png)" width="50%" height="50%">
+        <img src="[https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630](https://user-images.githubusercontent.com/121380847/210130776-f4c089de-5972-494b-8e0c-cc5c74208101.png)" width="50%" height="50%">
 - Home, Halaman ini menampilkan nama static siapa nama mahasiswa yang masuk dengan menerapkan room preference
 - Logout, tombol ini berguna untuk menghapus room preference untuk tetap login dan kembali ke halaman Login
-<img src="[https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630](https://user-images.githubusercontent.com/121380847/210130767-ca1c9fa0-60d8-41e7-84ad-4c04a8a3e759.png)" width="50%" height="50%">
+        <img src="[https://github.com/Habbatul/TugasPMobile_2000018240/issues/3#issue-1515064630](https://user-images.githubusercontent.com/121380847/210130767-ca1c9fa0-60d8-41e7-84ad-4c04a8a3e759.png)" width="50%" height="50%">
 
 ## Flow Aplikasi dan Highlight coding yang digunakan
 - Pengguna masuk kehalaman Login
