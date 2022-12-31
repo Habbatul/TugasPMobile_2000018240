@@ -31,7 +31,8 @@ disini halaman login adalah halaman awal aplikasi masuk. Login berada pada class
                 android:value="" />
         </activity>
         
- - Kemudian masuk ke halaman Registrasi (Nim harus bersifat uniq, data disimpan kedalam sqlite). Disini struktur database yang dibuat pada Mahasiswa.java adalah :
+ - Kemudian masuk ke halaman Registrasi (Nim harus bersifat uniq, data disimpan kedalam sqlite). Untuk NIM, karena tabel tidak memiliki primary key jadi menggunakan @PrimaryKey bukan foreign key dengan indices = {@Index(value = {"nim"},
+                unique = true)}. Disini struktur database yang dibuat pada Mahasiswa.java adalah :
  
         @Entity
         public class Mahasiswa {
